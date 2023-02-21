@@ -1,7 +1,7 @@
 # GameOn
 
 ## Links
-* https://zone202.github.io/GameOn
+* http://zone202.github.io/GameOn/
 
 ## Description
 <p>A game search to view new and upcoming games based on the RAWG API. Developed to improve my knowledge of Axios, API requests and data manipulation in React.</p>
