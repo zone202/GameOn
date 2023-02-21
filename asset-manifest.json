@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/GameOn/static/js/main.7e168065.js",
+    "static/js/787.1f25e7a4.chunk.js": "/GameOn/static/js/787.1f25e7a4.chunk.js",
+    "static/media/333217.jpg": "/GameOn/static/media/333217.73c1e8d0d4a023a18ee4.jpg",
+    "static/media/steam.svg": "/GameOn/static/media/steam.d7b8819f879421dc2f25a3474964687d.svg",
+    "static/media/playstation.svg": "/GameOn/static/media/playstation.18cc4b9ca49a92b00bb7958e88c5b9ad.svg",
+    "static/media/xbox.svg": "/GameOn/static/media/xbox.3e7db73549794056f91af6a980fbc4a4.svg",
+    "static/media/gamepad.svg": "/GameOn/static/media/gamepad.c9269ef588f73b9923db9e4c2be06cf0.svg",
+    "static/media/logo.svg": "/GameOn/static/media/logo.1a6c84cf712b321cc0d6ae49bccf47f4.svg",
+    "static/media/nintendo.svg": "/GameOn/static/media/nintendo.f579be0450cff9bf18cd4b3371f79436.svg",
+    "index.html": "/GameOn/index.html",
+    "static/media/apple.svg": "/GameOn/static/media/apple.5757c37e1a2b3d89e03deb9212a997e8.svg",
+    "main.7e168065.js.map": "/GameOn/static/js/main.7e168065.js.map",
+    "787.1f25e7a4.chunk.js.map": "/GameOn/static/js/787.1f25e7a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7e168065.js"
+  ]
+}
