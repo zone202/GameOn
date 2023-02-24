@@ -13,8 +13,9 @@
 </ul>
 
 ## Libraries used
-<ul>
- <li>Font Awesome</li>
+<ul>  
+  <li>React</li>
+  <li>Font Awesome</li>
   <li>Framer Motion</li>
   <li>Styled Components</li>
   <li>React Router</li>
